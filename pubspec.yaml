@@ -1,0 +1,5 @@
+name: Stickyboard
+author: The Stickyboard Team
+dependencies:
+  js: any
+  browser: any
